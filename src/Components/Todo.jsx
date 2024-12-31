@@ -31,7 +31,7 @@ export const Todo = () => {
     <div className='todo'>
         <div className="todo-header">To-Do List</div>
         <div className="todo-add">
-            <input ref={inputRef} type="text" placeholder='Add Tour Task' className='todo-input'/>
+            <input ref={inputRef} type="text" placeholder='Add Your Task' className='todo-input'/>
             <div onClick={()=>{add()}} className="todo-add-btn">
                 ADD
             </div>
