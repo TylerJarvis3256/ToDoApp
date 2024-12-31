@@ -21,14 +21,14 @@ A simple and intuitive To-Do application built with **React.js** for task manage
 ## 📂 Project Structure
 ```
 root
-├── public/                   # Static assets
+├── public/
 ├── src/
-│   ├── components/           # Reusable components (e.g., Task, TaskList)
-│   ├── styles/               # Component-specific styles
-│   └── App.js                # Entry point for the React app
-├── .gitignore                # Git ignored files
-├── package.json              # Dependencies and scripts
-└── README.md                 # Project documentation
+│   ├── components/
+│   ├── styles/
+│   └── App.js
+├── .gitignore
+├── package.json
+└── README.md
 ```
 
 ---
